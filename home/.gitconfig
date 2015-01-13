@@ -1,0 +1,7 @@
+[user]
+	name = Aaron Chambers
+	initials = ac
+[alias]
+	co = checkout
+	s = status
+	b = branch
