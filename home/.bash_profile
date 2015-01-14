@@ -4,7 +4,7 @@ PATH=/usr/local/bin:$PATH
 
 ### Added by the Heroku Toolbelt
 PATH="/usr/local/heroku/bin:$PATH"
-PATH="/Applications/Postgres.app/Contents/Versions/9.3/bin:$PATH"
+PATH="/Applications/Postgres.app/Contents/Versions/9.4/bin:$PATH"
 
 git_completion_script=`brew --prefix`/etc/bash_completion.d/git-completion.bash
 if test -f $git_completion_script; then
